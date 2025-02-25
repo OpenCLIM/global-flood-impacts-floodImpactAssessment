@@ -13,7 +13,7 @@ metadata:
     Flooded areas are created as polygons where flood depths exceed the Threshhold (Low is <0.1, Medium > 0.1 and <0.3, High > 0.3)
     The intersection of the buffered building polygon boundaries and the flooded areas is then calculated.
 
-  source_code: https://github.com/OpenCLIM/impact-assessment
+  source_code: https://github.com/OpenCLIM/global-flood-impacts-floodImpactAssessment
 spec:
   inputs:
     parameters:
